@@ -52,6 +52,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No te prometo que lo intentaré, pero intentaré intentarlo
+
+*Bart Simpson*
+
+-------
+
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
